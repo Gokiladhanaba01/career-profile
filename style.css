@@ -175,7 +175,7 @@ section{
     -webkit-text-stroke: 0.1vw #770753;
     background: var(--gradient-color-bg);
     background-repeat: no-repeat;
-    -website-background-clip: text;
+    -webkit-background-clip: text;
     background-position: 0 0;
     transition: .6s;
     letter-spacing: 2px;
